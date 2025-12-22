@@ -13,3 +13,10 @@ I have experience with front-end development using modern web technologies such 
 - Collaborative development and code reviews
   
 - Continuous learning and problem-solving
+
+If you'd like to chat, reach out via email.
+
+### 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail)](mailto:schneweisscavalcanti@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samuelscavalcanti/)

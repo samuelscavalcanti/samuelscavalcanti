@@ -1,8 +1,13 @@
 <h1>Hi there! 👋</h1>
-<p>My name is Samuel Schneweiss, I'm a learning Back-End Developer. I am on the journey to obtain a bachelor's degree in Information Systems in Unifacisa.</p>
-<h2> Languages and Tools </h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a></p>
-<h2> Socials </h2>
-<p><a target="_blank" href="https://www.instagram.com/samuelscavalcanti" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+
+I'm an Information Systems undergraduate at UNIFACISA and a junior software developer focused on building clean, maintainable, and scalable applications.
+
+I have experience with front-end development using modern web technologies such as HTML, CSS, JavaScript, React, and TypeScript, as well as back-end fundamentals with Java and Python. I enjoy working with well-structured projects, applying best practices, and continuously improving my code through reviews and collaboration.
+
+Currently, I'm focused on strengthening my foundations in software architecture, version control, and agile development, while gaining practical experience through academic and personal projects. I'm always open to learning new technologies and improving as a developer.
+
+📌 Interests:
+- Front-end development and UI/UX
+- Software architecture and best practices
+- Collaborative development and code reviews
+- Continuous learning and problem-solving

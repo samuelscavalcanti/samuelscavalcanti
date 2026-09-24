@@ -19,4 +19,4 @@ If you'd like to chat, reach out via email.
 ### 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail)](mailto:schneweisscavalcanti@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samuelscavalcanti/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samuelschneweiss/)
